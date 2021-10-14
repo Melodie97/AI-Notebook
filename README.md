@@ -2,8 +2,8 @@
 
 ### Outreachy Kindly application task 
 
-* Creating and customising an AI Platform Notebooks instance using Google Compute Engine
-* Tracking notebooks code with git, directly integrated into AI Platform Notebooks, and also through CLI
-* Using a BigQuery dataset (natality)
-* Working through process of training a TensorFlow model
-* Using the What-If Tool within the notebook to visualise the data
+* Creating an AI Platform Notebooks instance using Google Compute Engine
+* Connect BigQuery natality dataset to your notebook
+* Tracking notebook with git and also using Terminal
+* Training a TensorFlow model
+* Using the What-If Tool feature in Codelab
